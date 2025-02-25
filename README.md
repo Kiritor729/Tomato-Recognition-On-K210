@@ -5,4 +5,5 @@
 
 相关链接：
 https://developer.canaan-creative.com/canmv/main/canmv/index.html
-![x效果图(效果图.jfif)
+![效果图](效果图.jfif)
+ps:相似的苹果也能检测到。（此项目主要用于单一种类水果的检测，不适用于相近水果的区分。）
